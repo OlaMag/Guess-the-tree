@@ -1,0 +1,123 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GuessTheTree
+</name>
+</assembly>
+<members>
+<member name="P:GuessTheTree.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Acer_campestre">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Acer_platanoides">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Aesculus_hippocastanum">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Alnus_glutinosa">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Betula_pendula">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Carpinus_betulus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Fagus_sylvatica">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Fraxinus_excelsior">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Larix_decidua">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Picea_abies">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Pinus_sylvestris">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Populus_alba">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Pseudotsuga_menziesii">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Quercus_robur">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Robinia_pseudoacacia1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Salix_alba">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Taxus_baccata">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.Tilia_cordata">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.tree_black_silhouette_shape">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:GuessTheTree.My.Resources.Resources.treesCheatSheet">
+	<summary>
+  Looks up a localized string similar to Latin- English
+Abies alba - Silver fir
+Acer platanoides - maple
+Acer pseudoplatanus - sycamore
+Acer campestre - field maple
+Alnus glutinosa - Black alder
+Betula pendula - silver birch
+Betula pubescens - Downy birch
+Carpinus betulus - hornbeam
+Fagus sylvatica - beech
+Fraxinus excelsior - ash
+Larix decidua - larch
+Picea abies - norway spruce
+Pinus sylvestris - scots pine 
+Populus alba - 
+Populus tremula - aspen
+Pyrus communis - wild pear
+Pseudotsuga menziesii
+Quercus petraea - sessile oak
+Q [rest of string was truncated]";.
+</summary>
+</member><member name="T:GuessTheTree.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

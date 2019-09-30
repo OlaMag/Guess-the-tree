@@ -1,0 +1,29 @@
+Latin- English
+Abies alba - Silver fir
+Acer platanoides - maple
+Acer pseudoplatanus - sycamore
+Acer campestre - field maple
+Alnus glutinosa - Black alder
+Betula pendula - silver birch
+Betula pubescens - Downy birch
+Carpinus betulus - hornbeam
+Fagus sylvatica - beech
+Fraxinus excelsior - ash
+Larix decidua - larch
+Picea abies - norway spruce
+Pinus sylvestris - scots pine 
+Populus alba - white poplar
+Populus tremula - aspen
+Pyrus communis - wild pear
+Pseudotsuga menziesii
+Quercus petraea - sessile oak
+Quercus robur - pedunculate oak
+Robinia pseudoacacia 
+Salix alba - white willow
+Salix caprea - goat willow
+Tilia cordata - small-leaved lime
+Tilia platyphyllos - large-leaved lime
+Ulmus glabra - wych elm
+Ulmus laevis - fluttering elm
+Ulmus minor - small-leaved elm
+
